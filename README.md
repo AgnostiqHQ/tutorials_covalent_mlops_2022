@@ -1,5 +1,11 @@
 # MLOps 2022 Covalent demo
 
+&nbsp;
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AgnostiqHQ/covalent/master/doc/source/_static/covalent_readme_banner.svg" width=150%>
+
 Repository contains two examples of how `covalent` can be used to run your workflows:
 
 1. `sample_workflow.ipynb`:
